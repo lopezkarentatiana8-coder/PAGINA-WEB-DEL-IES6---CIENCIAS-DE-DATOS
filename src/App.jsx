@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import React, { useState } from 'react'
 import { tabs, internships, events, meses, faqs } from './data.js'
 
 const icons = {
