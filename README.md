@@ -5,4 +5,4 @@
     npm run build    # versión para publicar (carpeta dist/)
 
 Editá los textos, fechas y preguntas en `src/data.js`.
-Poné tu PDF en `public/plan-de-estudio.pdf`.
+Reemplazá `public/plan-de-estudio.pdf` por tu PDF real (mismo nombre).
