@@ -1,0 +1,10 @@
+GUÍA DE INTRODUCCIÓN A PYTHON
+
+Material de demostración para la vista de Alumnos.
+Reemplazar este archivo por el PDF o guía oficial de la materia.
+
+Temas sugeridos:
+- Variables y tipos de datos
+- Condicionales y ciclos
+- Funciones
+- Listas y diccionarios

@@ -1,0 +1,10 @@
+PRÁCTICA DE BASES DE DATOS
+
+Material de demostración para la vista de Alumnos.
+Reemplazar este archivo por el material oficial.
+
+Ejercicios sugeridos:
+- SELECT y filtros
+- Relaciones entre tablas
+- JOIN
+- Agrupaciones y reportes

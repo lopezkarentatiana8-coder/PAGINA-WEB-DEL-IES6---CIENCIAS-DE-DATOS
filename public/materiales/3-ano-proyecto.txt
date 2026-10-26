@@ -1,0 +1,10 @@
+GUÍA DE PROYECTO INTEGRADOR
+
+Material de demostración para la vista de Alumnos.
+Reemplazar este archivo por la guía oficial.
+
+Etapas sugeridas:
+- Definición del problema
+- Recolección y limpieza de datos
+- Análisis y visualización
+- Presentación de resultados
